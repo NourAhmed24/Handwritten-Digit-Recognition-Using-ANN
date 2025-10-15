@@ -1,55 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-            line-height: 1.6;
-            color: #24292e;
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f6f8fa;
-        }
-        h1 { border-bottom: 1px solid #eaecef; padding-bottom: 0.3em; color: #0366d6; }
-        h2 { border-bottom: 1px solid #eaecef; padding-bottom: 0.3em; }
-        h3 { color: #24292e; }
-        pre, code {
-            font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, monospace;
-            background-color: #f6f8fa;
-            border-radius: 6px;
-            padding: 0.2em 0.4em;
-        }
-        pre {
-            padding: 16px;
-            overflow: auto;
-            line-height: 1.45;
-            margin-bottom: 15px;
-            background-color: #eee;
-            border: 1px solid #d1d5da;
-        }
-        table {
-            border-collapse: collapse;
-            width: 100%;
-            margin: 15px 0;
-            background-color: #fff;
-        }
-        th, td {
-            border: 1px solid #d1d5da;
-            padding: 8px;
-            text-align: left;
-        }
-        th {
-            background-color: #f0f3f6;
-            font-weight: 600;
-        }
-        .citation {
-            font-size: 0.8em;
-            color: #586069;
-            margin-left: 5px;
-        }
-    </style>
-</head>
+
 <body>
 
  <h1>✍️ Handwritten Digit Recognition using Artificial Neural Networks (ANN)</h1>
